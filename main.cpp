@@ -14,7 +14,7 @@ int main()
 
     Pizza *pizza = nyStore->orderPizza("cheese");
     Pizza *pizza2 = chicagoStore->orderPizza("cheese");
-    p->prepare();
+    //p->prepare();
 
     return 0;
 }
